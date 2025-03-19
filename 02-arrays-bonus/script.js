@@ -40,5 +40,14 @@ for(i=0; i<teachers.length; i++){
 const isFabioPresent = flag;
 // stampa di controllo
 console.log(isFabioPresent);
+
 // 5. Unisci tutti gli insegnanti nell'array teachers in una stringa  separata da virgole e salvala nella variabile teachersString
-const teachersString = null;
+let string = "";
+for(i=0; i<teachers.length-1; i++){ //aggiungo gli insegnanti separati da una virgola
+  string += teachers[i]+", ";
+}
+string += teachers[teachers.length-1]; //aggiungo l'ultimo insegnante
+const teachersString = string;
+// stampa di controllo
+console.log(teachersString);
+
