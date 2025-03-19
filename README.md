@@ -10,3 +10,5 @@ Nel codice sorgente ci sono alcuni script con task bonus che potete svolgere se 
 
 Nota importante:
 Se provate a cercare online per aiutarvi nella risoluzione degli esercizi potreste incappare in vari metodi come map, filter, includes e tanti altri. Non usateli in questa fase, li studieremo più avanti! Per oggi cercate di risolvere tutto aiutandovi col ciclo for. Una volta padroneggiato questo costrutto di base, sarete pronti per “facilitarvi la vita” con gli altri metodi :wink:
+
+DONE
